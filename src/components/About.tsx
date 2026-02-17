@@ -45,32 +45,9 @@ const About = () => {
             </p>
 
             <div className="grid sm:grid-cols-2 gap-4">
-              <div className="flex items-center gap-3 text-muted-foreground">
-                <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
-                  <MapPin className="w-5 h-5 text-primary" />
-                </div>
-                <span>Pakistan</span>
-              </div>
-              <div className="flex items-center gap-3 text-muted-foreground">
-                <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
-                  <Mail className="w-5 h-5 text-primary" />
-                </div>
-                <span className="text-sm">officialmubashirhayyat@gmail.com</span>
-              </div>
-              <div className="flex items-center gap-3 text-muted-foreground">
-                <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
-                  <Phone className="w-5 h-5 text-primary" />
-                </div>
-                <span>+92 319 8400943</span>
-              </div>
-              <div className="flex items-center gap-3 text-muted-foreground">
-                <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
-                  <GraduationCap className="w-5 h-5 text-primary" />
-                </div>
-                <span>ADCS, Sindh University</span>
-              </div>
-            </div>
-          </motion.div>
+             
+  </div>
+  </motion.div>
 
           <motion.div
             initial={{ opacity: 0, x: 30 }}
